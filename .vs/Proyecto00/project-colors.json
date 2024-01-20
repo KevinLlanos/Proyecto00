@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dd4cde8b-d722-4d22-9eae-3df374a0ffee": {
+      "ProjectGuid": "dd4cde8b-d722-4d22-9eae-3df374a0ffee",
+      "DisplayName": "RestaurantePizzeria",
+      "ColorIndex": 0
+    },
+    "25b73c97-156a-499e-a804-65c18e68048f": {
+      "ProjectGuid": "25b73c97-156a-499e-a804-65c18e68048f",
+      "DisplayName": "Entidades",
+      "ColorIndex": 1
+    },
+    "41d765d5-6a22-454e-b4d1-629cc40934ce": {
+      "ProjectGuid": "41d765d5-6a22-454e-b4d1-629cc40934ce",
+      "DisplayName": "CapaDatos",
+      "ColorIndex": 2
+    },
+    "4a8fc01d-8a50-4cfe-9dda-15c266e363e6": {
+      "ProjectGuid": "4a8fc01d-8a50-4cfe-9dda-15c266e363e6",
+      "DisplayName": "CapaNegocios",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
